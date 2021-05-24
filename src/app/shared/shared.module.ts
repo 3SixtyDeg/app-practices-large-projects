@@ -3,7 +3,6 @@ import { CommonModule } from '@angular/common';
 import { RouterModule } from '@angular/router';
 import { BreadcrumbComponent } from './breadcrumb/breadcrumb.component';
 import { FooterComponent } from './footer/footer.component';
-import { ErrorPageComponent } from './error-page/error-page.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { SidenavComponent } from './sidenav/sidenav.component';
 
@@ -14,8 +13,7 @@ import { SidenavComponent } from './sidenav/sidenav.component';
     BreadcrumbComponent,
     FooterComponent,
     SidenavComponent,
-    NavbarComponent,
-    ErrorPageComponent
+    NavbarComponent
   ],
   imports: [
     CommonModule,
@@ -25,8 +23,7 @@ import { SidenavComponent } from './sidenav/sidenav.component';
     BreadcrumbComponent,
     FooterComponent,
     SidenavComponent,
-    NavbarComponent,
-    ErrorPageComponent
+    NavbarComponent
   ]
 })
 export class SharedModule { }

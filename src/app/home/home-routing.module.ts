@@ -1,7 +1,6 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { HomeComponent } from './pages/home.component';
-import { ErrorPageComponent } from '../shared/error-page/error-page.component';
 
 
 
@@ -51,7 +50,7 @@ const routes: Routes = [
       },
       {
         path: '**',
-        component: ErrorPageComponent
+        redirectTo: '/page-not-found'
       }
     ]
   }
