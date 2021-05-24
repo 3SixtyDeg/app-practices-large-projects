@@ -113,8 +113,8 @@ Se usa [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 &nbsp;
 
 <table>
-  <tr>
-    <td align="center">
+  <tr style="border: 0">
+    <td align="center" style="border: 0">
       <a href="https://github.com/magranadosb">
         <img src="https://avatars.githubusercontent.com/u/75822956" width="50px;" alt="magranadosb"/><br>
         <sub>
