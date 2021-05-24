@@ -46,7 +46,7 @@
     </li>
     <li><a href="#despliegue">📦 Despliegue</a></li>
     <li><a href="#versionado">📌 Versionado</a></li>
-    <li><a href="#contribuidores">✒️ Contribuidores</a></li>
+    <li><a href="#contribuyentes">✒️ Contribuyentes</a></li>
     <li><a href="#licencia">📄 Licencia</a></li>
   </ol>
 </details>
@@ -109,7 +109,7 @@ ng serve -o
 
 Se usa [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/magranadosb/app-practices-large-projects/tags).
 
-## Contribuidores
+## Contribuyentes
 &nbsp;
 
 <table>
@@ -126,7 +126,7 @@ Se usa [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 </table>
 &nbsp;
 
-_También puedes mirar la lista de todos los [contribuyentes](https://github.com/magranadosb/app-practices-large-projects/graphs/contributors) quíenes han participado en este proyecto._
+_También puedes mirar más detalles de todos los [contribuyentes](https://github.com/magranadosb/app-practices-large-projects/graphs/contributors) quíenes han participado en este proyecto._
 
 ## Licencia
 
