@@ -113,12 +113,12 @@ Se usa [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 &nbsp;
 
 <table>
-  <tr style="border: 0">
-    <td align="center" style="border: 0">
+  <tr>
+    <td align="center">
       <a href="https://github.com/magranadosb">
         <img src="https://avatars.githubusercontent.com/u/75822956" width="50px;" alt="magranadosb"/><br>
         <sub>
-          <b>Marco Antonio Granados</b>
+          <b>magranadosb</b>
         </sub>
       </a>
     </td>
