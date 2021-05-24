@@ -1,22 +1,26 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
-<br />
+
 <p align="center">
-  <h3 align="center">app-practices-large-projects</h3>
+ <img width="100px" src="./src/assets/img/logo.png" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">app-practices-large-projects</h2>
+ <p align="center"> Estructura de directorios para medianos y grandes proyectos.</p>
+</p>
   <p align="center">
-    Estructura de directorios para medianos y grandes proyectos.
-    <br />
-    <a href="https://stackblitz.com/github/magranadosb/app-practices-large-projects">Ver Demo</a>
-    ·
-    <a href="https://github.com/magranadosb/app-practices-large-projects/issues">Reportar Error</a>
-    ·
-    <a href="https://github.com/magranadosb/app-practices-large-projects/issues">Solicitar Función</a>
-  </p>
+     <a href="https://github.com/magranadosb/app-practices-large-projects/graphs/contributors">
+      <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/magranadosb/app-practices-large-projects.svg?style=for-the-badge" />
+     </a>
+     <a href="https://github.com/magranadosb/app-practices-large-projects/issues">
+      <img alt="GitHub issues" src="https://img.shields.io/github/issues/magranadosb/app-practices-large-projects.svg?style=for-the-badge" />
+     </a>
+     <a href="https://github.com/magranadosb/app-practices-large-projects/blob/main/LICENSE.md">
+      <img alt="GitHub license" src="https://img.shields.io/github/license/magranadosb/app-practices-large-projects.svg?style=for-the-badge" />
+     </a>
+     <a href="https://github.com/magranadosb/app-practices-large-projects/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/magranadosb/app-practices-large-projects.svg?style=for-the-badge" />
+     </a>
+</p>
+<p align="center">
+    <a href="https://stackblitz.com/github/magranadosb/app-practices-large-projects">Ver demo</a>
 </p>
 
 ## Tabla de contenidos
@@ -101,16 +105,3 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md) para más detalles.
-
-[contributors-shield]: https://img.shields.io/github/contributors/magranadosb/app-practices-large-projects.svg?style=for-the-badge
-[contributors-url]: https://github.com/magranadosb/app-practices-large-projects/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/magranadosb/app-practices-large-projects.svg?style=for-the-badge
-[forks-url]: https://github.com/magranadosb/app-practices-large-projects/network/members
-[stars-shield]: https://img.shields.io/github/stars/magranadosb/app-practices-large-projects.svg?style=for-the-badge
-[stars-url]: https://github.com/magranadosb/app-practices-large-projects/stargazers
-[issues-shield]: https://img.shields.io/github/issues/magranadosb/app-practices-large-projects.svg?style=for-the-badge
-[issues-url]: https://github.com/magranadosb/app-practices-large-projects/issues
-[license-shield]: https://img.shields.io/github/license/magranadosb/app-practices-large-projects.svg?style=for-the-badge
-[license-url]: https://github.com/magranadosb/app-practices-large-projects/LICENSE.md
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com
