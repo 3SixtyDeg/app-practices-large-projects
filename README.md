@@ -26,11 +26,8 @@
 ## Información sobre mi cuenta de GitHub
 
 <br/>
-<center>
 
 ![magranadosb](https://github-readme-stats.vercel.app/api?username=magranadosb&show_icons=true)
-
-</center>
 
 ## Tabla de contenidos
 
