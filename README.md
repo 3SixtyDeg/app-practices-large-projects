@@ -23,6 +23,15 @@
     <a href="https://stackblitz.com/github/magranadosb/app-practices-large-projects">Ver demo</a>
 </p>
 
+## Información sobre mi cuenta de GitHub
+
+<br/>
+<center>
+
+![magranadosb](https://github-readme-stats.vercel.app/api?username=magranadosb&show_icons=true)
+
+</center>
+
 ## Tabla de contenidos
 
 <details open="open">
@@ -71,7 +80,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 ### Pre-requisitos
 
 * [NodeJS](https://nodejs.org/en/)
-* [GIT](https://git-scm.com)
+* [Git](https://git-scm.com)
 * [TypeScript](https://www.typescriptlang.org/download)
   ```sh
   npm install -g typescript
@@ -109,8 +118,8 @@ Se usa [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 <table>
   <tr>
     <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/75822956" width="50px;" alt="Foto do Iuri Silva no GitHub"/><br>
+      <a href="https://github.com/magranadosb">
+        <img src="https://avatars.githubusercontent.com/u/75822956" width="50px;" alt="magranadosb"/><br>
         <sub>
           <b>Marco Antonio Granados</b>
         </sub>
@@ -125,17 +134,3 @@ _También puedes mirar la lista de todos los [contribuyentes](https://github.com
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md) para más detalles.
-
-<br/>
-<br/>
-<br/>
-
-## Información sobre mi cuenta de GitHub
-
-<br/>
-
-![magranadosb](https://github-readme-stats.vercel.app/api?username=magranadosb&show_icons=true)
-
-<br/>
-
-[![magranadosb](https://github-readme-stats.vercel.app/api/top-langs/?username=magranadosb&hide=html&layout=compact&theme=default)](https://github.com/magranadosb/)
