@@ -40,19 +40,19 @@
     </li>
     <li><a href="#despliegue">📦 Despliegue</a></li>
     <li><a href="#versionado">📌 Versionado</a></li>
-    <li><a href="#autores">✒️ Autores</a></li>
+    <li><a href="#contribuidores">✒️ Contribuidores</a></li>
     <li><a href="#licencia">📄 Licencia</a></li>
   </ol>
 </details>
 
 ## Sobre el proyecto
-\
+
 &nbsp;
 ![](./src/assets/img/header.png)
 &nbsp;
  >Estructura de directorios para medianos y grandes proyectos.
 
- ## Construido con
+## Construido con
 
 * [Angular CLI v12.0.0](https://angular.io/)
 * [Start Bootstrap - SB Admin](https://github.com/startbootstrap/startbootstrap-sb-admin)
@@ -70,9 +70,16 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ### Pre-requisitos
 
-* [Angular CLI](https://angular.io/cli)
 * [NodeJS](https://nodejs.org/en/)
 * [GIT](https://git-scm.com)
+* [TypeScript](https://www.typescriptlang.org/download)
+  ```sh
+  npm install -g typescript
+  ```
+* [Angular CLI](https://angular.io/cli)
+  ```sh
+  npm install -g @angular/cli
+  ```
 
 ### Instalación
 
@@ -94,14 +101,41 @@ ng serve -o
 
 ## Versionado
 
-Se usa [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/magranadosb/app-practices-paises/tags).
+Se usa [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/magranadosb/app-practices-large-projects/tags).
 
-## Autores
+## Contribuidores
+&nbsp;
 
-* **Marco Antonio Granados** - *Trabajo Inicial* - [magranadosb](https://github.com/magranadosb)
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/75822956" width="50px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <sub>
+          <b>Marco Antonio Granados</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+&nbsp;
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/magranadosb/app-practices-paises/graphs/contributors) quíenes han participado en este proyecto. 
+_También puedes mirar la lista de todos los [contribuyentes](https://github.com/magranadosb/app-practices-large-projects/graphs/contributors) quíenes han participado en este proyecto._
 
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md) para más detalles.
+
+<br/>
+<br/>
+<br/>
+
+## Información sobre mi cuenta de GitHub
+
+<br/>
+
+![magranadosb](https://github-readme-stats.vercel.app/api?username=magranadosb&show_icons=true)
+
+<br/>
+
+[![magranadosb](https://github-readme-stats.vercel.app/api/top-langs/?username=magranadosb&hide=html&layout=compact&theme=default)](https://github.com/magranadosb/)
