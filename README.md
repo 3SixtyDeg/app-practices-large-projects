@@ -22,12 +22,10 @@
 <p align="center">
     <a href="https://stackblitz.com/github/magranadosb/app-practices-large-projects">Ver demo</a>
 </p>
-
-## Información sobre mi cuenta de GitHub
-
 <br/>
-
-![magranadosb](https://github-readme-stats.vercel.app/api?username=magranadosb&show_icons=true)
+<br/>
+<br/>
+<br/>
 
 ## Tabla de contenidos
 
@@ -118,10 +116,15 @@ Se usa [SemVer](http://semver.org/) para el versionado. Para todas las versiones
       <a href="https://github.com/magranadosb">
         <img src="https://avatars.githubusercontent.com/u/75822956" width="50px;" alt="magranadosb"/><br>
         <sub>
-          <b>Marco Antonio Granados</b>
+          <b>magranadosb</b>
         </sub>
       </a>
     </td>
+    <td>
+  
+  ![magranadosb](https://github-readme-stats.vercel.app/api?username=magranadosb&show_icons=true)
+
+  </td>
   </tr>
 </table>
 &nbsp;
