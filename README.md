@@ -44,7 +44,7 @@
     </li>
     <li><a href="#despliegue">📦 Despliegue</a></li>
     <li><a href="#versionado">📌 Versionado</a></li>
-    <li><a href="#contribuyentes">✒️ Contribuyentes</a></li>
+    <li><a href="#contribuidores">✒️ Contribui    <li><a href="#contribuyentes">✒️ Contribuyentes</a></li>
     <li><a href="#licencia">📄 Licencia</a></li>
   </ol>
 </details>
@@ -120,11 +120,6 @@ Se usa [SemVer](http://semver.org/) para el versionado. Para todas las versiones
         </sub>
       </a>
     </td>
-    <td>
-  
-  ![magranadosb](https://github-readme-stats.vercel.app/api?username=magranadosb&show_icons=true)
-
-  </td>
   </tr>
 </table>
 &nbsp;
@@ -134,3 +129,13 @@ _También puedes mirar más detalles de todos los [contribuyentes](https://githu
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md) para más detalles.
+
+<br/>
+<br/>
+<br/>
+
+## Información sobre mi cuenta de GitHub
+
+<br/>
+
+![magranadosb](https://github-readme-stats.vercel.app/api?username=magranadosb&show_icons=true)
