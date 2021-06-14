@@ -130,12 +130,8 @@ _También puedes mirar más detalles de todos los [contribuyentes](https://githu
 
 Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md) para más detalles.
 
-<br/>
-<br/>
-<br/>
-
 ## Información sobre mi cuenta de GitHub
 
 <br/>
 
-![magranadosb](https://github-readme-stats.vercel.app/api?username=magranadosb&show_icons=true)
+![magranadosb](https://github-readme-stats.vercel.app/api?username=magranadosb&show_icons=true&locale=es)
