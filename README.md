@@ -20,7 +20,7 @@
      </a>
 </p>
 <p align="center">
-    <a href="https://stackblitz.com/github/magranadosb/app-practices-large-projects">Ver demo</a>
+    <a href="https://magranadosb.github.io/app-practices-large-projects">Ver demo</a>
 </p>
 <br/>
 <br/>
@@ -44,7 +44,7 @@
     </li>
     <li><a href="#despliegue">📦 Despliegue</a></li>
     <li><a href="#versionado">📌 Versionado</a></li>
-    <li><a href="#contribuidores">✒️ Contribui    <li><a href="#contribuyentes">✒️ Contribuyentes</a></li>
+    <li><a href="#contribuyentes">✒️ Contribuyentes</a></li>
     <li><a href="#licencia">📄 Licencia</a></li>
   </ol>
 </details>
